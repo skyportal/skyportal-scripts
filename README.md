@@ -1,6 +1,6 @@
 # SkyPortal Scripts
 
-Scripts and notebooks to interact with the SkyPortal API ([orcusgate.org](https://orcusgate.org/)).
+Scripts and notebooks to interact with the SkyPortal API.
 See the [SkyPortal](https://skyportal.io) and [API](https://skyportal.io/docs/api.html) documentation for more details on available endpoints and usage.
 
 ## Installation

@@ -19,7 +19,9 @@ Copy the environment template and fill in your API token:
 cp .env.default .env
 ```
 
-Edit `.env` and replace `your_api_token_here` with your token (found on the bottom of your SkyPortal /profile page).
+Edit `.env`:
+- Set `SKYPORTAL_URL` to your SkyPortal instance, e.g. `https://fritz.science/`, `https://skyportal-icare.ijclab.in2p3.fr/`, `https://orcusgate.org/`
+- Set `SKYPORTAL_TOKEN` to your API token (found on the bottom of your SkyPortal /profile page)
 
 ## Usage
 
